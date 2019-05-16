@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HusenFireGame", "HusenFireGame\HusenFireGame.csproj", "{4296FAF7-C550-4F28-888D-0AA65CAB4E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HusenFireGameTests", "HusenFireGameTests\HusenFireGameTests.csproj", "{8D3246EA-703B-41CA-AB67-487D18536666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4296FAF7-C550-4F28-888D-0AA65CAB4E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4296FAF7-C550-4F28-888D-0AA65CAB4E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4296FAF7-C550-4F28-888D-0AA65CAB4E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4296FAF7-C550-4F28-888D-0AA65CAB4E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3246EA-703B-41CA-AB67-487D18536666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3246EA-703B-41CA-AB67-487D18536666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3246EA-703B-41CA-AB67-487D18536666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3246EA-703B-41CA-AB67-487D18536666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD63CF2-0574-47DB-95F6-E91AF1D2CDE1}
+	EndGlobalSection
+EndGlobal
